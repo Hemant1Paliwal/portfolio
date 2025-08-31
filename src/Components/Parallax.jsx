@@ -12,7 +12,10 @@ const Parallax = ({ type }) => {
 
   const skills = [
     { name: "Node.js", category: "Backend", color: "from-green-400 to-green-600" },
+    { name: "Next js", category: "Backend", color: "from-green-400 to-green-600" },
+    
     { name: "React", category: "Frontend", color: "from-blue-400 to-blue-600" },
+    { name: "Next js", category: "Frontend", color: "from-blue-400 to-blue-600" },
     { name: "TypeScript", category: "Language", color: "from-blue-500 to-blue-700" },
     { name: "MongoDB", category: "Database", color: "from-green-500 to-green-700" },
     { name: "PostgreSQL", category: "Database", color: "from-blue-600 to-indigo-600" },

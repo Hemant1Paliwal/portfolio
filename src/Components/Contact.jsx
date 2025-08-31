@@ -70,7 +70,7 @@ const Contact = () => {
               </span>
               Mail
             </h2>
-            <p className="text-sm sm:text-base break-all">hemant6081@gmail.com</p>
+            <p className="text-sm sm:text-base bg-gray-200 px-2 py-1 text-slate-900 rounded-md "> hemant6081@gmail.com</p>
           </div>
 
           {/* Address */}
@@ -81,7 +81,7 @@ const Contact = () => {
               </span>
               Address
             </h2>
-            <p className="text-sm sm:text-base">New Delhi</p>
+            <p className="text-sm sm:text-base bg-gray-200 px-2 py-1 text-slate-900 rounded-md ">New Delhi</p>
           </div>
 
           {/* Phone */}
@@ -92,7 +92,7 @@ const Contact = () => {
               </span>
               Phone
             </h2>
-            <p className="text-sm sm:text-base">+91 9810231216</p>
+            <p className="text-sm sm:text-base bg-gray-200 px-2 py-1 text-slate-900 rounded-md ">+91 9810231216</p>
           </div>
         </div>
       </div>

@@ -29,7 +29,7 @@ const Portfolio = () => {
       id: 2,
       name: "Transform Buddy",
       description:
-        `: Transform Buddy is an AI-powered fitness platform that makes
+        `Transform Buddy is an AI-powered fitness platform that makes
           personalized coaching accessible to everyone. It offers AI-powered workout plans, nutrition
           tracking, advanced analytics, goal tracking, habit building, community support, personalized
           insights, and detailed progress tracking with premium AI models for superior
