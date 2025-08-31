@@ -26,7 +26,7 @@ const Navbar = () => {
         >
           HEMANT PALIWAL
         </motion.h1>
-        <ul className="flex items-center gap-4 ">
+        {/* <ul className="flex items-center gap-4 ">
           <li>
             <img className="w-8" src={fb} />
           </li>
@@ -39,7 +39,7 @@ const Navbar = () => {
           <li>
             <img className="w-8" src={twitter} />
           </li>
-        </ul>
+        </ul> */}
       </motion.div>
     </motion.div>
   );

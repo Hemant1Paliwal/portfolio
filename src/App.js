@@ -12,20 +12,18 @@ function App() {
     <>
     <div className="snap-mandatory snap-y">
       <Sidebar />
-      <section id="HomePage" className="h-screen snap-center   ">
+      <section id="HomePage" className="h-screen snap-center p-8  ">
         <Navbar />
         <Hero />
       </section>
-      <section id="skills" className="h-screen snap-center  ">
+      <section id="skills" className="h-screen snap-center p-8 overflow-y-auto   ">
         <Parallax type="skills" />
       </section>
-      <section id="services" className="h-screen snap-center  ">
-        <Parallax type="portfolio" />
-      </section>
-      <section id="PortFolio" className=" snap-center  ">
+      
+      <section id="PortFolio" className=" snap-center p-8 ">
         <Portfolio/>
       </section>
-      <section id="Contact" className=" snap-center h-screen   ">
+      <section id="Contact" className=" snap-center h-screen    ">
         <Contact/>
       </section>
      

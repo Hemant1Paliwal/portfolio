@@ -2,7 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 
 const Links = ({open}) => {
-  const items = ["HomePage", "skills", "services", "PortFolio", "Contact"];
+  const items = ["HomePage", "skills" , "PortFolio", "Contact"];
   const parentVariants = {
     open : {
       transition  : {
